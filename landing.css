@@ -50,8 +50,7 @@ button {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 10rem;
-    gap: 10rem;
+    background-color: pink;
 }
 
 .hero-container {
