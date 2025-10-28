@@ -11,7 +11,7 @@
 ul {
     list-style-type: none;
     display: flex;
-    gap: 1rem;
+    gap: 6rem;
     margin: 0;
     padding: 0;
     width: 400px;
@@ -23,9 +23,9 @@ a {
     color: #000;
 }
 
-.header {
+header {
     display: flex;
-    flex-direction: column;
+    justify-content: space-around;
     align-items: center;
     background-color: pink;
 }
